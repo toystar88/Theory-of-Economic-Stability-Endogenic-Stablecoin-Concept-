@@ -55,7 +55,7 @@ Full license text: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0
 ## Citation
 If you use or adapt this work, please cite as:
 
-> Trung (Founder, Constitutional Monetary Law) & Microsoft Copilot (AI Editorial Partner).  
+> Tommy (Founder, Constitutional Monetary Law) & Microsoft Copilot (AI Editorial Partner).  
 > *Theory of Economic Stability: MVPQ Three-Governor Model*.  
 > GitHub Repository, 2025.  
 
