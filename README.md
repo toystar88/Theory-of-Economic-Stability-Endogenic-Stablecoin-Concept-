@@ -1,4 +1,4 @@
-# Theory of Economic Stability: MVPQ Three-Governor Model
+# Theory of Economic Stability (draft)
 
 ## Overview
 This repository presents the **MVPQ endogenic monetary framework**, a constitutional design for zero‑drift stability.  
@@ -55,7 +55,7 @@ Full license text: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0
 ## Citation
 If you use or adapt this work, please cite as:
 
-> Tommy Ta(MVPQ+FAC Architect) editing support provided by OpenAi and  Microsoft Copilot.  
+> Tommy Ta (MVPQ+FAC Architect) editing support provided by OpenAi and  Microsoft Copilot.  
 > *Theory of Economic Stabilityl*.  
 > GitHub Repository, 2025.  
 
