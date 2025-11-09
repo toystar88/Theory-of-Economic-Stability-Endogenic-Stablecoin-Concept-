@@ -24,7 +24,7 @@ Together, these governors hold **P ≈ 1.00** across >99% of real‑world shocks
 ## Repository Contents
 - **Theory of Economic Stability**
 - **Appendix**
-- **World MVPQ backtest**
+- **World MVPQ git**
 
 ---
 
