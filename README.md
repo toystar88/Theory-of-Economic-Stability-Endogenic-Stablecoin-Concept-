@@ -55,8 +55,8 @@ Full license text: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0
 ## Citation
 If you use or adapt this work, please cite as:
 
-> Tommy (Founder, Constitutional Monetary Law) & Microsoft Copilot (AI Editorial Partner).  
-> *Theory of Economic Stability: MVPQ Three-Governor Model*.  
+> Tommy Ta(MVPQ+FAC Architect) editing support provided by OpenAi and  Microsoft Copilot.  
+> *Theory of Economic Stabilityl*.  
 > GitHub Repository, 2025.  
 
 ---
